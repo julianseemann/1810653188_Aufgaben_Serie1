@@ -8,5 +8,8 @@ public class seue3p {
         System.out.println(name);
         int alter = 20;
         System.out.println(alter);
+        String fachhochschuleKufsteinTirol = "Fachhochschule Kufstein Tirol";
+        final String fhKufsteinTirol = "FH_KUFSTEIN_TIROL"; //verkürzt //final
+
     }
 }
