@@ -13,6 +13,20 @@ public class seue3p {
 
         final String ort = "Kufstein";
 
+        String Satz= "Java verwendet für Strings \"doppelteAnführungszeichen\" und einzelne Anführungszeichen\n wie 'c' um einzelne Zeichen zu definieren.";
+        System.out.println(Satz);
+
+        String Satz2= "Ich verwende den\b Backspace, die Newline\n und den \tTabulator";
+        System.out.println(Satz2);
+
+        String Satz3= "Ich verwende den\f Backspace, die Newline\r und den Tabulator";
+        System.out.println(Satz3);
+
+
 
     }
 }
+
+
+
+
