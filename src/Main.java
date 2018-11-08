@@ -7,5 +7,8 @@ public class Main {
         String name= "Julian"; //Zuweisung eines Begriffes mithilfe eines Datentyps
         System.out.println(name); //Ausgeben des Begriffes name auf der Konsole
         System.out.println(); //Eingabe und Ausgabe der Main Methode
+
+
+
     }
 }

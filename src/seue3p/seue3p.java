@@ -11,5 +11,8 @@ public class seue3p {
         String fachhochschuleKufsteinTirol = "Fachhochschule Kufstein Tirol";
         final String fhKufsteinTirol = "FH_KUFSTEIN_TIROL"; //verkürzt //final
 
+        final String ort = "Kufstein";
+
+
     }
 }
